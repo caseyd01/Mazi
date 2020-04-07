@@ -3,7 +3,7 @@
 Mazi is an interactive app that encourages individuals to stay in and practice quarentine during this time using the point system of "bits."
 
 
-## Building bitIN
+## Building Mazi
 
 Mazi is built for iOS. 
 
