@@ -1,4 +1,4 @@
-# Mazi
+# Mazi- Working on this now. started it a while ago from our original idea which is different now **
 
 Mazi is an interactive app that encourages individuals to stay in and practice quarentine during this time using the point system of "bits."
 
