@@ -5,7 +5,7 @@ Mazi is an interactive app that encourages individuals to stay in and practice q
 
 ## Building Mazi
 
-Mazi is built for iOS. 
+Mazi is 
 
 ## Address 
 As part of the registration of a user, address will be included along with name, birthday and contact information. The app locates the address provided and creates a circle of 500 feet radius around the house. In order for the user to collect bits, he/she has to stay inside that radius of distance or else he/she will be considered out of bounds.
