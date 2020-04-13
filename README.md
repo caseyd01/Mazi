@@ -3,22 +3,7 @@
 Mazi is an interactive app that encourages individuals to stay in and practice quarentine during this time using the point system of "bits."
 
 
-## Building Mazi
-
-Mazi is 
-
-## Address 
-As part of the registration of a user, address will be included along with name, birthday and contact information. The app locates the address provided and creates a circle of 500 feet radius around the house. In order for the user to collect bits, he/she has to stay inside that radius of distance or else he/she will be considered out of bounds.
-
-## Timer 
-Mazi implements a timer into the app to track the amount of time the user stays within the radius of his/her house. Users can choose to select pre-set time periods or a self-timer that records the time live. The timer keeps going unless the user steps out of bounds, in which the timer will stop. If the timer stops, bits are not added onto the user's scoreboard. 
-
-## Bits 
-For every hour, Mazi will reward the user with a point in the system of bits. At every bit level, the user can choose between a variety of discounts and/or free awards gifted by the participating companies. The prizes could include discounts, giftcards that can be reedeemed online or for later use, or for food delivery of that company. 
-
-## Companies
-Mazi encourages individuals to stay inside with the help of chain restaurants and local companies. The ads for smaller businesses will be included throughout the app to incentivize participation while also gaining advertisement for their business. 
-
-## Display
-Mazi will also display recent news, community outreach opportunities, or just-for-fun activities, in addition to advertisements of the company.
-
+## Inspiration
+During this pandemic, we all have a crucial responsibility of staying inside. One of the most powerful tools we have to fight off COVID-19 is to quarantine to reduce the spread of the virus. Although healthcare officials have repeatedly urged individuals to do so, not everyone seems to be fully following it- whether that be because of boredom, “half-quarantine,” or it is difficult to do so. A recent question arose: why are people not staying inside, and how can we change this? Our app, Mazi, promotes living a healthy lifestyle during this difficult time, staying inside to help decrease the spread of COVID-19, supporting local businesses with a reward system, and most importantly, working together as a community to get through this. Mazi means “Together” in Greek, which is fitting for our current global situation: to get through anything as a community, whether it be COVID-19 or not, we all have to work together as a team by trying to be our best selves, being mindful of the health and safety of others, and supporting both the ups and downs of those around us.
+## What It Does
+Mazi is a user-friendly app for users of all ages to be encouraged to move their bodies daily, care about their wellness, practice social distancing by staying at home, and support local businesses- now and always. Within Mazi, there are four categories users can choose from: local businesses, wellness, fitness, and quarantine. Each category consists of a few tasks regarding that chosen theme. By completing various themes, the user gains various amounts of points that can be redeemed for rewards given by online and in-store retailers and restaurants that correspond to their respective app categories in order to better promote that function. In addition to utilizing the support of our larger companies, we are also looking to support the businesses that are dear to our local communities by marketing for these companies within the app and even giving back to those businesses. During this time, an important aspect of Mazi is the quarantine category. The quarantine screen provides two functions: a timer and a map showcasing the cases of COVID-19. Based on the imputed house address of the user, the app will track the amount of time the user does not leave his/her house by a specific radius and reward him/her for practicing quarantine for the sake of themselves and the community. In addition to rewards given by businesses, the user gains the reward of knowing he/she is helping out the community by looking at the interactive map. Each user is a green dot, indicating the status of being healthy, but it can be changed to red, which indicates feeling unwell. The goal is for users to be motivated by the increasing amounts of green dots in his/her community and the decrease in red dots, as this means their acts have had a positive impact in their local neighborhood. This also gives users a general idea of where the hotspots are and for them to make their own judgments on the current situation as well. Therefore, Mazi provides a representation of hope as well as a clear picture of how the small acts that everyone does, together, can have a tremendous impact on creating a healthy, safe, and thriving community.
