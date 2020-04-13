@@ -1,8 +1,5 @@
 # Mazi- Working on this now. started it a while ago from our original idea which is different now **
 
-Mazi is an interactive app that encourages individuals to stay in and practice quarentine during this time using the point system of "bits."
-
-
 ## Inspiration
 During this pandemic, we all have a crucial responsibility of staying inside. One of the most powerful tools we have to fight off COVID-19 is to quarantine to reduce the spread of the virus. Although healthcare officials have repeatedly urged individuals to do so, not everyone seems to be fully following it- whether that be because of boredom, “half-quarantine,” or it is difficult to do so. A recent question arose: why are people not staying inside, and how can we change this? Our app, Mazi, promotes living a healthy lifestyle during this difficult time, staying inside to help decrease the spread of COVID-19, supporting local businesses with a reward system, and most importantly, working together as a community to get through this. Mazi means “Together” in Greek, which is fitting for our current global situation: to get through anything as a community, whether it be COVID-19 or not, we all have to work together as a team by trying to be our best selves, being mindful of the health and safety of others, and supporting both the ups and downs of those around us.
 ## What It Does
